@@ -1,0 +1,5 @@
+- hosts: all
+  tasks:     
+    - name: Install something
+      debug:
+        msg: "Replace this with your tasks"
